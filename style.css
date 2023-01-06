@@ -60,7 +60,16 @@ body{
 }
 
 a{
- text-decoration: none;   
+ text-decoration: none;
+ cursor: pointer; 
+}
+
+a:link{
+    color: #3F3D56;
+}
+
+a:visited{
+    color: #3F3D56;
 }
 
 .line{
